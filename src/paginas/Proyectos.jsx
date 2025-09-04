@@ -22,7 +22,7 @@ const Projects = () => {
         { name: "Vercel", logo: "▲" },
       ],
       github: "https://github.com/bilalelmoudden04",
-      demo: "",
+      demo: "https://www.bilalelmoudden.com/",
       featured: true,
     },
     {

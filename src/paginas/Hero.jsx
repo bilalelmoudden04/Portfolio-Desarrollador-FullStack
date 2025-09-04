@@ -95,7 +95,7 @@ const Hero = () => {
               <Github size={18} className="text-gray-300" />
             </a>
             <a
-              href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+              href="https://www.linkedin.com/in/bilal-el-moudden-11081933a/"
               target="_blank" rel="noopener noreferrer"
               className="p-3 rounded-full bg-gray-900/50 border border-gray-800 hover:border-[#577BC1] transition hover:scale-110"
             >
